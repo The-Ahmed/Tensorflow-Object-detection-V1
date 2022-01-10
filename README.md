@@ -2,7 +2,7 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: The-Ahmed/Tensorflow-Object-detection-V1
+<b>Step 1.</b> Clone this repository: https://github.com/The-Ahmed/Tensorflow-Object-detection-V1
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
